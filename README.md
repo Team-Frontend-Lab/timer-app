@@ -18,7 +18,7 @@ You can use any tools you like to help you complete the assessment. So, if you h
 
 If you come across any design elements in the design file that are not specified in the requirements, you are only expected to create the UI. Developing functionality for these elements is optional.
 
-Requirements:
+**Requirements:**
 
 - Start button to start the timer
 - Stop button to stop the timer
