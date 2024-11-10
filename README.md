@@ -51,13 +51,13 @@ As mentioned above, there are many ways to host your project for free. Our recom
 
 ## Create a custom `README.md`
 
-We strongly recommend creating your own `README.md`. A custom `README` will help you explain your project and reflect on your learnings.
+We strongly recommend overwriting this `README.md` with a custom one. A custom `README` will help you explain your project and reflect on your learnings.
 
 It should also include installation and setup instructions.
 
 ## Submitting your solution
 
-Submit your solution on the platform to receive admin feedback. After submission, you'll receive admin feedback on your assessment within 24 hours.
+Submit your solution on the platform. Open this [Timer app](https://www.frontendlab.io/assessment/66b8970fba617dd0f01e842a) link and complete the form to submit your challenge.
 
 ## Evaluation Criteria
 
