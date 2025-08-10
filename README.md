@@ -31,7 +31,9 @@ Want some support on the challenge? [Join our community](https://discord.gg/ATSt
 
 Your task is to build the project based on the designs in the `/design` folder, where you'll find the desktop version. However, it's not mandatory to follow these designs—you can also incorporate your own design if you prefer.
 
-The designs are provided in PNG static format, but unlike our competitors who charge for the **Figma design file**, we offer it completely **FREE** on our platform under the assessment page. Use our Figma design file at no extra cost and save time on guessing styles like `font-size`, `padding`, and `margin` etc.
+The designs are provided in PNG static format. Using PNGs means you'll need to use your best judgment for styles such as font size, padding, and margin.
+
+Take your workflow to the next level, upgrade to [PRO](https://www.frontendlab.io/pro) and unlock full access to our Figma design files. Explore every detail, from layout grids to interactive elements, and build with confidence.
 
 ## Building your project
 
